@@ -1,0 +1,6 @@
+c:\users\jim\documents\visual studio 2015\Projects\MarketSeer\MarketSeer\bin\Debug\MarketSeer.exe.config
+C:\Users\Jim\documents\visual studio 2015\Projects\MarketSeer\MarketSeer\obj\Debug\MarketSeer.csprojResolveAssemblyReference.cache
+C:\Users\Jim\documents\visual studio 2015\Projects\MarketSeer\MarketSeer\bin\Debug\MarketSeer.exe
+C:\Users\Jim\documents\visual studio 2015\Projects\MarketSeer\MarketSeer\bin\Debug\MarketSeer.pdb
+C:\Users\Jim\documents\visual studio 2015\Projects\MarketSeer\MarketSeer\obj\Debug\MarketSeer.exe
+C:\Users\Jim\documents\visual studio 2015\Projects\MarketSeer\MarketSeer\obj\Debug\MarketSeer.pdb

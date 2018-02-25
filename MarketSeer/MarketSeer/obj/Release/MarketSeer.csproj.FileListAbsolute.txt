@@ -1,0 +1,5 @@
+C:\Users\Jim\documents\visual studio 2015\Projects\MarketSeer\MarketSeer\bin\Release\MarketSeer.exe.config
+C:\Users\Jim\documents\visual studio 2015\Projects\MarketSeer\MarketSeer\bin\Release\MarketSeer.exe
+C:\Users\Jim\documents\visual studio 2015\Projects\MarketSeer\MarketSeer\bin\Release\MarketSeer.pdb
+C:\Users\Jim\documents\visual studio 2015\Projects\MarketSeer\MarketSeer\obj\Release\MarketSeer.exe
+C:\Users\Jim\documents\visual studio 2015\Projects\MarketSeer\MarketSeer\obj\Release\MarketSeer.pdb
